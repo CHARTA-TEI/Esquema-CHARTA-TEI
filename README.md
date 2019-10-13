@@ -1,1 +1,3 @@
+Este esquema se corresponde con el proyecto de *Edición digital de documentos antiguos: marcación XML-TEI basada en los criterios CHARTA* cuyo objetivo general ha sido expresar los criterios de transcripción y de edición de la Red CHARTA (2013) mediante un lenguaje de marcación conforme a la propuesta Text Encoding Initiative (TEI), en su versión P5. Atendiendo a las vías actuales de edición de documentos, definitivamente abiertas al horizonte digital, se pretende, así, partir de la consecución de los criterios de edición de CHARTA como modelo de tratamiento filológico y conjugarlo con el de TEI, que optimice su aprovechamiento en el ámbito de la edición digital.
 
+El estado actual del esquema se corresponde con un trabajo en curso.
